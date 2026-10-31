@@ -1,1 +1,0 @@
-// DNS-AID application page
