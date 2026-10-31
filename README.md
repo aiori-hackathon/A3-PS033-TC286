@@ -8,4 +8,4 @@ Watch our team introduction and project demonstration for AIORI Hackathon 3 — 
 
 Watch our working project demonstration of DNS-AID, showcasing the implemented features and core functionalities.
 
-[Watch the working Demo Video](https://www.loom.com/share/c4b402925ae64db1912ad8a6b9b26cf5)
+[Watch the working Demo Video](https://youtu.be/kfUJi0Zj9P0?si=ukuM90ekQoddcXrN)
